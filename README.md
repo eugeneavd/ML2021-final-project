@@ -29,5 +29,6 @@ Data is available in [data](https://github.com/eugeneavd/ML2021-final-project/tr
 * Neural Network
 
 ### Some results
-![pic1](https://github.com/eugeneavd/ML2021-final-project/raw/main/pics/x5_t_qini.png)
-![pic2](https://github.com/eugeneavd/ML2021-final-project/raw/main/pics/qinitree.jpeg)
+<img src="https://github.com/eugeneavd/ML2021-final-project/raw/main/pics/x5_t_qini.png" width="300" height="300">
+<img src="https://github.com/eugeneavd/ML2021-final-project/raw/main/pics/qinitree.jpeg" width="300" height="300">
+
