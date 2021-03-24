@@ -1,4 +1,4 @@
-# ML2021-final-project
+й# ML2021-final-project
 
 ## Modern approaches to the assessment of demand sensitivity based on upliftmodels and neural networks
 
@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 ### Data
 
 * [MineThatData E-Mail Analytics And Data MiningChallenge dataset by Kevin Hillstrom](https://blog.minethatdata.com/2008/05/best-answer-e-mail-analytics-challenge.html)
-* Kuusisto synthetic dataset
+* [Kuusisto synthetic dataset](http://pages.cs.wisc.edu/~dpage/kuusisto.thesis.pdf)
 * [X5 retail group dataset](https://ods.ai/competitions/x5-retailhero-uplift-modeling/data)
 
 Data is available in [data](https://github.com/eugeneavd/ML2021-final-project/tree/main/data), but all download utilities are added to the notebooks
