@@ -27,3 +27,7 @@ Data is available in [data](https://github.com/eugeneavd/ML2021-final-project/tr
 * Metalearners
 * Trees & random forests, boosting
 * Neural Network
+
+### Some results
+![pic1](https://github.com/eugeneavd/ML2021-final-project/raw/main/pics/x5_t_qini.png)
+![pic2](https://github.com/eugeneavd/ML2021-final-project/raw/main/pics/qinitree.jpeg)
